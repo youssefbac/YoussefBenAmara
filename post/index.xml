@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on Youssef Ben Amara</title>
+    <link>https://youssefbac.github.io/YoussefBenAmara/post/</link>
+    <description>Recent content in Projects on Youssef Ben Amara</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 01 Jul 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://youssefbac.github.io/YoussefBenAmara/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Price Estimation and Prediction in the Real Estate Market </title>
+      <link>https://youssefbac.github.io/YoussefBenAmara/post/project5/</link>
+      <pubDate>Fri, 01 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://youssefbac.github.io/YoussefBenAmara/post/project5/</guid>
+      <description>-Developing scripts that allow the user to estimate or predict the price of an asset.
+1-Analyze the data
+2-Clean the data
+3-Identify the features needed for price estimation
+4-provide a predictive model for the price detection</description>
+    </item>
+    
+    <item>
+      <title>Credit Card Default Prediction</title>
+      <link>https://youssefbac.github.io/YoussefBenAmara/post/project1/</link>
+      <pubDate>Mon, 01 Nov 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://youssefbac.github.io/YoussefBenAmara/post/project1/</guid>
+      <description>The project is being prepared to understand whether the credit card customer will make a payment default in the next month or not based on a number of features. Data Understanding:We used an anonymized dataset of Taiwanese credit card holders from October 2006. Data comprehension and analysis (structure, size, dimensions, and relationships between various features) / Data preparation (standardisation, encoding) / Modelling and Evaluation/Deployment
+Link to Github Repository</description>
+    </item>
+    
+    <item>
+      <title>Recommandation System</title>
+      <link>https://youssefbac.github.io/YoussefBenAmara/post/project2/</link>
+      <pubDate>Thu, 01 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://youssefbac.github.io/YoussefBenAmara/post/project2/</guid>
+      <description>Create a recommandation system to help student to find an end of study internship or a first job. -Scraping linkedin profile and companies names to create a consistent database. -Analyse data -Data Cleaning -Using NLP model to predict the best recommandation to each profile -deployment of recommandation system with docker
+Link to Github Repository</description>
+    </item>
+    
+    <item>
+      <title>HealthCare Web Site</title>
+      <link>https://youssefbac.github.io/YoussefBenAmara/post/project4/</link>
+      <pubDate>Sun, 12 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://youssefbac.github.io/YoussefBenAmara/post/project4/</guid>
+      <description>Development of an application dedicated to the managment of patients in a medical practice. Using MySQL and Laravel
+Link to Github Repository</description>
+    </item>
+    
+    <item>
+      <title>Kidzy Application </title>
+      <link>https://youssefbac.github.io/YoussefBenAmara/post/project3/</link>
+      <pubDate>Sat, 11 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://youssefbac.github.io/YoussefBenAmara/post/project3/</guid>
+      <description>-Development of a dedicated application for children and parents named kidzy with 3 different version Desktop,web,mobile application based on agile SCRUM method Technologies used JavaFX,Symfony,CodenameOne,MySQL as a data base.
+Link to Github Repository</description>
+    </item>
+    
+  </channel>
+</rss>

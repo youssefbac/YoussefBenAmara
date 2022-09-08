@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Youssef Ben Amara</title>
+    <link>https://youssefbac.github.io/YoussefBenAmara/</link>
+    <description>Recent content on Youssef Ben Amara</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 01 Jul 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://youssefbac.github.io/YoussefBenAmara/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Price Estimation and Prediction in the Real Estate Market </title>
+      <link>https://youssefbac.github.io/YoussefBenAmara/post/project5/</link>
+      <pubDate>Fri, 01 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://youssefbac.github.io/YoussefBenAmara/post/project5/</guid>
+      <description>-Developing scripts that allow the user to estimate or predict the price of an asset.
+1-Analyze the data
+2-Clean the data
+3-Identify the features needed for price estimation
+4-provide a predictive model for the price detection</description>
+    </item>
+    
+    <item>
+      <title>Credit Card Default Prediction</title>
+      <link>https://youssefbac.github.io/YoussefBenAmara/post/project1/</link>
+      <pubDate>Mon, 01 Nov 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://youssefbac.github.io/YoussefBenAmara/post/project1/</guid>
+      <description>The project is being prepared to understand whether the credit card customer will make a payment default in the next month or not based on a number of features. Data Understanding:We used an anonymized dataset of Taiwanese credit card holders from October 2006. Data comprehension and analysis (structure, size, dimensions, and relationships between various features) / Data preparation (standardisation, encoding) / Modelling and Evaluation/Deployment
+Link to Github Repository</description>
+    </item>
+    
+    <item>
+      <title>Recommandation System</title>
+      <link>https://youssefbac.github.io/YoussefBenAmara/post/project2/</link>
+      <pubDate>Thu, 01 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://youssefbac.github.io/YoussefBenAmara/post/project2/</guid>
+      <description>Create a recommandation system to help student to find an end of study internship or a first job. -Scraping linkedin profile and companies names to create a consistent database. -Analyse data -Data Cleaning -Using NLP model to predict the best recommandation to each profile -deployment of recommandation system with docker
+Link to Github Repository</description>
+    </item>
+    
+    <item>
+      <title>HealthCare Web Site</title>
+      <link>https://youssefbac.github.io/YoussefBenAmara/post/project4/</link>
+      <pubDate>Sun, 12 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://youssefbac.github.io/YoussefBenAmara/post/project4/</guid>
+      <description>Development of an application dedicated to the managment of patients in a medical practice. Using MySQL and Laravel
+Link to Github Repository</description>
+    </item>
+    
+    <item>
+      <title>Kidzy Application </title>
+      <link>https://youssefbac.github.io/YoussefBenAmara/post/project3/</link>
+      <pubDate>Sat, 11 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://youssefbac.github.io/YoussefBenAmara/post/project3/</guid>
+      <description>-Development of a dedicated application for children and parents named kidzy with 3 different version Desktop,web,mobile application based on agile SCRUM method Technologies used JavaFX,Symfony,CodenameOne,MySQL as a data base.
+Link to Github Repository</description>
+    </item>
+    
+    <item>
+      <title>About Me | Achievements</title>
+      <link>https://youssefbac.github.io/YoussefBenAmara/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://youssefbac.github.io/YoussefBenAmara/about/</guid>
+      <description> What caracterizes me is creativity and organization, I have an analytical spirit data skills as well as application development.I enjoy working on sophesticated projects that require delivering key outcomes. I am excited to enter the professional world and enhance my abilities.
+My achievements: Certificate Neural Networks and Deep Learning 2022-09-01 Huawei Certification HCIA-AI 2022-08-01 Certificate Introduction to Machine Learning 2021-07-15 Certificate Python
+2019-06-01 </description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>https://youssefbac.github.io/YoussefBenAmara/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://youssefbac.github.io/YoussefBenAmara/contact/</guid>
+      <description>Follow me on these social media platforms:
+Platform URL Linkedin: https://www.linkedin.com/in/youssef-ben-amara-a49670172/ e-mail: benamarayoussef20@gmail.com Guithub: https://github.com/youssefbac Twitter: https://twitter.com/Youssef18388908 </description>
+    </item>
+    
+  </channel>
+</rss>
